@@ -1,0 +1,83 @@
+Accessibility Focused Redesign
+
+CodeTech IT Solutions Internship
+Task 2 – Accessibility Focused Redesign
+
+----------------------------------------
+Accessibility Standards Followed
+----------------------------------------
+
+1. WCAG 2.1 Guidelines
+2. High Color Contrast
+3. Readable Typography
+4. Keyboard Navigation Support
+5. Screen Reader Compatibility
+6. Proper Form Labels
+7. Large Touch Targets (Minimum 44 × 44 px)
+8. Visible Focus Indicators
+9. Consistent Navigation
+10. Descriptive Buttons and Links
+
+----------------------------------------
+Accessibility Improvements
+----------------------------------------
+
+• Increased font size to improve readability.
+• Improved color contrast between text and background.
+• Added descriptive labels for form fields.
+• Enlarged buttons and interactive elements.
+• Maintained consistent spacing throughout the interface.
+• Used simple and clear language.
+• Improved navigation for keyboard users.
+• Added meaningful success and error messages.
+
+----------------------------------------
+Fonts Used
+----------------------------------------
+
+Primary Font:
+- Poppins
+
+Alternative Fonts:
+- Inter
+- Roboto
+
+----------------------------------------
+Icons Used
+----------------------------------------
+
+- Material Symbols
+- Font Awesome
+- Heroicons
+- Feather Icons
+
+----------------------------------------
+Color Palette
+----------------------------------------
+
+Primary Color : #4F46E5
+Secondary Color : #6366F1
+Background : #FFFFFF
+Text : #111827
+Success : #22C55E
+Warning : #F59E0B
+Error : #EF4444
+
+----------------------------------------
+Accessibility Features
+----------------------------------------
+
+✓ High Contrast Interface
+✓ Readable Font Sizes
+✓ Large Clickable Buttons
+✓ Accessible Forms
+✓ Keyboard Friendly Navigation
+✓ Responsive Layout
+✓ Clear Error Messages
+✓ Screen Reader Friendly Labels
+
+----------------------------------------
+Project Outcome
+----------------------------------------
+
+The redesigned interface provides a more inclusive and user-friendly experience by following accessibility best practices. The improvements help users of different abilities interact with the application more efficiently and comfortably.
